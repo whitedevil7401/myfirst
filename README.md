@@ -1,4 +1,4 @@
 # myfirst
 This is my first reprosetory
 <br>
-Author = Rajveer singh
+Author = Rajveer (thakur)
